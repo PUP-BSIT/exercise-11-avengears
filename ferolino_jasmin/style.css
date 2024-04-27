@@ -151,3 +151,13 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+    .my-goals{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    iframe {
+      width: 99%;
+      height: 20em;
+    }
