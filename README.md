@@ -2,7 +2,7 @@
 
 Team URL: https://avengears-ex11.netlify.app/
 
-ferolino, jasmin URL: https://ferolino-jasmin.netlify.app/
+ferolino, jasmin URL: https://ferolinojasmin-ex11.netlify.app
 
 japitana, johnwalter URL: https://japitanajohnwalter-ex11.netlify.app/
 

@@ -121,7 +121,7 @@ button {
   color: #000000;
 }
 
-textarea {  
+textarea {
   width: 90%;
   height: 20em;
 }
@@ -182,7 +182,7 @@ textarea {
   grid-area: itm5;
   display: flex;
   justify-content: center;
-  padding: 1em
+  padding: 1em;
 }
 
 .item-1,
