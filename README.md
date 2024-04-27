@@ -6,6 +6,6 @@ ferolino, jasmin URL: https://ferolinojasmin-ex11.netlify.app
 
 japitana, johnwalter URL: https://japitanajohnwalter-ex11.netlify.app/
 
-malapad, melchorjames URL: https://malapad-melchorjames.netlify.app/
+malapad, melchorjames URL: https://malapadmelchorjames-ex11.netlify.app/
 
 santos, akishagelsey URL: https://santosakishagelsey-ex11.netlify.app/

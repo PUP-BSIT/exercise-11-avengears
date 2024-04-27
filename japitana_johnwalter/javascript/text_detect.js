@@ -3,13 +3,12 @@ var textarea = document.getElementById("textarea_01");
 var text = document.getElementById("text_01");
 
 function checkInputs() {
-    if (textarea.value.trim() !== '' && text.value.trim() !== '') {
-        button.disabled = false; // Enable the button
-    } else {
-        button.disabled = true; // Disable the button
-    }
+  if (textarea.value.trim() !== "" && text.value.trim() !== "") {
+    button.disabled = false; // Enable the button
+  } else {
+    button.disabled = true; // Disable the button
   }
+}
 
-  
-  textarea.addEventListener('input', checkInputs);
-  text.addEventListener('input', checkInputs);
+textarea.addEventListener("input", checkInputs);
+text.addEventListener("input", checkInputs);

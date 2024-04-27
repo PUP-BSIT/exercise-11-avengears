@@ -1,5 +1,5 @@
 body {
-  background-color: #96B6C5;
+  background-color: #96b6c5;
   font-family: "Courier New", Courier, monospace;
 }
 
@@ -27,7 +27,7 @@ h2 {
 }
 
 .name {
-  background-color: #EEE0C9;
+  background-color: #eee0c9;
   text-align: center;
   background-size: cover;
   display: flex;
@@ -39,17 +39,17 @@ h2 {
 }
 
 .work {
-  background-color: #EEE0C9;
+  background-color: #eee0c9;
   border: 2px solid #495e57;
   width: 250px;
 }
 
-a { 
+a {
   color: black;
 }
 
 .gallery {
-  background-color: #EEE0C9;
+  background-color: #eee0c9;
   margin-bottom: 1rem;
   justify-items: center;
   display: grid;
@@ -62,7 +62,7 @@ a {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ADC4CE;
+  background-color: #adc4ce;
 }
 
 .li-class {
